@@ -70,7 +70,12 @@ footer ul {
    
 }
 
+footer ul li {
+    list-style: none;
+    color: white;
+}
 footer ul li img {
+
     padding: 0 10px;
     width: 40px;
 
